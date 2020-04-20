@@ -4,5 +4,5 @@
 - Designed and implemented key-value store and alias on server.
 - Analyzed and implemented basic HTTP request methods, and HTTP status codes.
 
-##
-Design Documents have detail information.
+## helpful documents
+Design Documents have detail design information.
